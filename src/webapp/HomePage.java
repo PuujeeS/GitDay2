@@ -10,6 +10,10 @@ public class HomePage {
 
     // one more tings for the homepage
 
+    //add morethings
+
+    //footer
+
 
 
 
